@@ -1,0 +1,13 @@
+<SharedFlowBundle revision="2" name="SF-Flowhook-demo">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1669354842793</CreatedAt>
+    <LastModifiedAt>1669354842793</LastModifiedAt>
+    <Policies>
+        <Policy>Spike-Arrest-1</Policy>
+    </Policies>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+    <subType>SharedFlow</subType>
+</SharedFlowBundle>
