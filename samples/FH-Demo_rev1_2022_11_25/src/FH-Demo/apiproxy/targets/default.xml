@@ -10,6 +10,6 @@
     <Response/>
   </PostFlow>
   <HTTPTargetConnection>
-    <URL>https://httpbin.org/post</URL>
+    <URL>https://httpbin.org</URL>
   </HTTPTargetConnection>
 </TargetEndpoint>
