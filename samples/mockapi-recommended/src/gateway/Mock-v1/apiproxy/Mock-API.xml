@@ -5,7 +5,7 @@
     <Description>Apigee mock target service endpoint</Description>
     <DisplayName>Mock-API</DisplayName>
     <Policies>
-        <Policy>AM-Set-Headers</Policy>
+        <Policy>AM-Set-Headersxyz=</Policy>
         <Policy>SC-Get-XML</Policy>
         <Policy>X2J-Convert-Response</Policy>
     </Policies>
